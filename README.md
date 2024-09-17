@@ -1,2 +1,2 @@
-# spring-core-Practice
-A Spring Core Practice
+# spring-core-practice
+A Spring Core practice
